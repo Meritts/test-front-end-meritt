@@ -7,7 +7,7 @@
   Meritt
 </h2>
 
-- [Teste Front-end Developer Junior/Pleno 🎮](#teste-front-end-developer-juniorpleno-)
+- [Teste Front-end Developer 🎮](#teste-front-end-developer-)
   - [Quem somos 📖](#quem-somos-)
   - [A Vaga 👀](#a-vaga-)
     - [Requisitos ⚙️](#requisitos-️)
@@ -19,20 +19,20 @@
     - [O que vai nos deixar um pouco mais felizes? 🤩](#o-que-vai-nos-deixar-um-pouco-mais-felizes-)
 - [Que a força esteja com você ⚔️](#que-a-força-esteja-com-você-️)
 
-## Teste Front-end Developer Junior/Pleno 🎮
+## Teste Front-end Developer 🎮
 
 ### Quem somos 📖
-A [Meritt](https://meritt.com.br) é uma startup voltada para simplificar uma complexa rede de logística.
-Fazemos entregas urbanas para clientes de qualquer tamanho.
-Same-day, Next-day, Logística Reversa, Ship-from-store, Entregas B2B e operações customizadas.
+A [Meritt](https://meritt.com.br) é uma Edtech, sediada em Florianópolis-SC, que tem como missão transformar e impactar a educação no Brasil por meio do uso inteligente de dados educacionais. Nossas soluções impactam a vida de milhares de alunos e profissionais envolvidos com a educação.
 
-Tudo isso com tecnologia 100% própria com organização e escalonamento de todos os nossos sistemas.
+Tudo isso com tecnologia 100% própria e com organização e escalonamento de todos os nossos sistemas.
 
 ### A Vaga 👀
 Vou colocar aqui no começo da descrição pra salientar: A vaga é **`100%` REMOTA** e pode ser aplicada de **QUALQUER LUGAR DO BRASIL**. Portanto não se acanhem.
 
 Nosso time de Front-end atua com ReactJS em todas as aplicações.
-A tecnologia foi escolhida por ser versátil, performática e ter um ecossistema muito rico em volta. E porque você, dev que fez o curso da `Rocketseat` 🚀, vai trabalhar com a gente bem tranquilo.
+A tecnologia foi escolhida por ser versátil, performática e ter um ecossistema muito rico em volta.
+
+Se você fez o curso da `Rocketseat 🚀` vai tirar de letra.
 
 Basicamente, a vaga consiste em criar novas aplicações e manter as que ja existem, todas em ReactJS.
 
@@ -40,25 +40,26 @@ Basicamente, a vaga consiste em criar novas aplicações e manter as que ja exis
 - Conhecimentos sólidos em `HTML5`, `CSS3` e `Javascript`
 - Conhecimentos sólidos em `Typescript`
 - Conhecimentos sólidos em `responsividade`
-- Conhecimentos em `ReactJS`
+- Conhecimentos em `ReactJS` (versão 16.8.x acima)
 - Conhecimentos em `react-router-dom`
 - Conhecimentos em gerenciamento de estado com `context-api`
 - Conhecimento da biblioteca `material-ui` que é a mais adotada em nossos projetos
 - Conhecimento em gerenciador de pacotes (`npm` e `yarn`)
 - Saber utilizar o `eslint`
 - Versionamento de código com o [Git](https://git-scm.com/)
-- Ter usado, mesmo que pra estudo: `redux`, `redux-saga` e `redux-persist`)
+- Ter usado, mesmo que pra estudo: `redux`, `redux-saga` e `redux-persist`
 - Ser criativo e oferecer soluções melhores que seu superior (sim, ouvimos todo mundo e isso é muito importante)
 - Ser proativo e se integrar bem com o time (isso é meio que encher linguiça, mas é bom colocar mesmo assim)
+- Fazer café (eu ia colocar em requisitos... mas nosso techlead não toma café... é verdade esse bilhete)
 
 #### Bônus 🔥
 - Conhecimentos em `NodeJS`
 - Conhecimentos em `NestJS`
 - Conhecimentos em `TypeORM`
-- Conhecimentos em `Postgres`\
+- Conhecimentos em `Postgres`
+- Conhecimentos em `AWS`
 - Conhecimentos em `testes unitários (@testing-library/react e jest)` e  `testes de integração (Cypress)`
 - Boas práticas de `UX/UI`
-- Fazer café (eu ia colocar em requisitos... mas nosso techlead não toma café... é verdade esse bilhete)
 - Não acreditar que a terra é plana (Não é um diferencial... mas ajuda)
 
 #### Teste 🧪
