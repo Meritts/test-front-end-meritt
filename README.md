@@ -40,7 +40,7 @@ Basicamente, a vaga consiste em criar novas aplicações e manter as que ja exis
 - Conhecimentos sólidos em `HTML5`, `CSS3` e `Javascript`
 - Conhecimentos sólidos em `Typescript`
 - Conhecimentos sólidos em `responsividade`
-- Conhecimentos em `ReactJS` (versão 16.8.x acima)
+- Conhecimentos em `ReactJS` (versão 16.8.x acima com `hooks`)
 - Conhecimentos em `react-router-dom`
 - Conhecimentos em gerenciamento de estado com `context-api`
 - Conhecimento da biblioteca `material-ui` que é a mais adotada em nossos projetos
@@ -50,7 +50,7 @@ Basicamente, a vaga consiste em criar novas aplicações e manter as que ja exis
 - Ter usado, mesmo que pra estudo: `redux`, `redux-saga` e `redux-persist`
 - Ser criativo e oferecer soluções melhores que seu superior (sim, ouvimos todo mundo e isso é muito importante)
 - Ser proativo e se integrar bem com o time (isso é meio que encher linguiça, mas é bom colocar mesmo assim)
-- Fazer café (eu ia colocar em requisitos... mas nosso techlead não toma café... é verdade esse bilhete)
+- Fazer café (é verdade esse bilhete)
 
 #### Bônus 🔥
 - Conhecimentos em `NodeJS`
@@ -63,7 +63,9 @@ Basicamente, a vaga consiste em criar novas aplicações e manter as que ja exis
 - Não acreditar que a terra é plana (Não é um diferencial... mas ajuda)
 
 #### Teste 🧪
-O candidato (palavra bonita essa né... Fora do contexto político, claro) deve criar uma aplicação, o mais próximo possível dos layouts que estão [aqui](/.github/layouts). O link do figma para o projeto encontra-se [aqui](https://www.figma.com/file/uTbBsWwHlHJC77V76KztMd/Teste-Front-end-Developer?node-id=0%3A1). Lembrando, são apenas `duas` telas que tem algumas vizões diferentes
+Você deve criar uma aplicação, o mais próximo possível dos layouts que estão [aqui](/.github/layouts). O link do figma para o projeto encontra-se [aqui](https://www.figma.com/file/uTbBsWwHlHJC77V76KztMd/Teste-Front-end-Developer?node-id=0%3A1). Lembrando, são apenas `duas` telas que tem algumas visões diferentes.
+
+O teste tem `uma semana` para ser concluído. Então faça com carinho e no tempo livre.
 
 Pode usar o `CRA (create-react-app)` sem problemas.
 Utilize  [material-ui](https://material-ui.com/) se possível.
@@ -76,6 +78,8 @@ REACT_APP_KEY_NAME=value
 Não se esqueça de inserir as demais chaves que utilizar no arquivo `.env.example`.
 
 O modelo de dados se encontra no arquivo `db.json` e pode ser utilizado em conjunto com a biblioteca [json-server](https://github.com/typicode/json-server) para criar uma `Fake API` e consumir localmente. Mesmo a documentação dizendo que tem que instalar localmente, acoselho a usar como dependência de desenvolvimento e criar um script pra isso.
+
+O modelo de dados da `API` se encontra no arquivo `types.ts`.
 
 Se não for demorar... Usa um `eslint` e um `editorconfig` também.
 
