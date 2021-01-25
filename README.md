@@ -63,7 +63,7 @@ Basicamente, a vaga consiste em criar novas aplicações e manter as que ja exis
 - Não acreditar que a terra é plana (Não é um diferencial... mas ajuda)
 
 #### Teste 🧪
-O candidato (palavra bonita essa né... Fora do contexto político, claro) deve criar uma aplicação, o mais próximo possível dos layouts que estão [aqui](/.github/layouts). O link do figma para o projeto encontra-se [aqui](https://www.figma.com/file/gsOJ2Q61x3jnVKC50nfR3X/teste-front-end?node-id=0%3A1).
+O candidato (palavra bonita essa né... Fora do contexto político, claro) deve criar uma aplicação, o mais próximo possível dos layouts que estão [aqui](/.github/layouts). O link do figma para o projeto encontra-se [aqui](https://www.figma.com/file/uTbBsWwHlHJC77V76KztMd/Teste-Front-end-Developer?node-id=0%3A1). Lembrando, são apenas `duas` telas que tem algumas vizões diferentes
 
 Pode usar o `CRA (create-react-app)` sem problemas.
 Utilize  [material-ui](https://material-ui.com/) se possível.
@@ -73,12 +73,14 @@ Caso implemente variáveis de ambiente em seu `.env`, insira a mesma ou um exemp
 REACT_APP_KEY_NAME=value
 ```
 
-Não se esqueça de inserir as demais chaves que utilizar no arquivo `.env.example`
+Não se esqueça de inserir as demais chaves que utilizar no arquivo `.env.example`.
+
+O modelo de dados se encontra no arquivo `db.json` e pode ser utilizado em conjunto com a biblioteca [json-server](https://github.com/typicode/json-server) para criar uma `Fake API` e consumir localmente. Mesmo a documentação dizendo que tem que instalar localmente, acoselho a usar como dependência de desenvolvimento e criar um script pra isso.
 
 Se não for demorar... Usa um `eslint` e um `editorconfig` também.
 
 #### Onde colocar o projeto? 🛠
-- Você deve criar um repositório no Github com seu projeto quando ele estiver pronto
+- Você deve criar um repositório no Github com seu projeto quando ele estiver pronto.
 
 #### Tá, terminei... Pra quem envio o repositório? 🚧
 Certo... Se você chegou até aqui... Deve querer saber quem é o responsável? Bem eu também não sei... Mas vai acabar sobrando pra mim, então envia o link do repositório no [Github](https://github.com) pra esse e-mail aqui: [michelon@meritt.com.br](mailto:michelon@meritt.com.br) e coloca nosso chefe [tiago@meritt.com.br](mailto:tiago@meritt.com.br) em cópia pra ele estar ciente beleza?. Sim, meu nome é Michelon e sim, minha mãe não tem senso de humor... (ou tem até demais, vai saber).
