@@ -87,7 +87,7 @@ Se não for demorar... Usa um `eslint` e um `editorconfig` também.
 - Você deve criar um repositório **PRIVADO** no Github com seu projeto quando ele estiver pronto.
 
 #### Tá, terminei... Pra quem envio o repositório? 🚧
-Certo... Se você chegou até aqui... Deve querer saber quem é o responsável? Bem eu também não sei... Mas vai acabar sobrando pra mim, então envia o link do repositório **PRIVADO** no [Github](https://github.com) pra esse e-mail aqui: [michelon@meritt.com.br](mailto:michelon@meritt.com.br), nesse aqui também [thiagocamposde@gmail.com](mailto:thiagocamposde@gmail.com) e coloca nosso chefe [thiago.campos@meritt.com.br](mailto:thiago.campos@meritt.com.br) em cópia pra ele estar ciente beleza?. Sim, meu nome é Michelon e sim, minha mãe não tem senso de humor... (ou tem até demais, vai saber).
+Certo... Se você chegou até aqui... Deve querer saber quem é o responsável? Bem eu também não sei... Mas vai acabar sobrando pra mim, então envia o link do repositório **PRIVADO** no [Github](https://github.com) pra esse e-mail aqui: [michelon.souza@hotmail.com](mailto:michelon.souza@hotmail.com), nesse aqui também [thiagocamposde@gmail.com](mailto:thiagocamposde@gmail.com) e coloca nosso chefe [tiago@meritt.com.br](mailto:tiago@meritt.com.br) em cópia pra ele estar ciente beleza?. Sim, meu nome é Michelon e sim, minha mãe não tem senso de humor... (ou tem até demais, vai saber).
 Mande um invite do seu para estes usuários do github: **michelonsouza** e **thiagocamposde**
 
 #### O que será avaliado? 🤔
