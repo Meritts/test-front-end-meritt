@@ -65,7 +65,9 @@ Basicamente, a vaga consiste em criar novas aplicações e manter as que ja exis
 #### Teste 🧪
 Você deve criar uma aplicação, o mais próximo possível dos layouts que estão [aqui](/.github/layouts). O link do figma para o projeto encontra-se [aqui](https://www.figma.com/file/uTbBsWwHlHJC77V76KztMd/Teste-Front-end-Developer?node-id=0%3A1). Lembrando, são apenas `duas` telas que tem algumas visões diferentes.
 
-O teste tem `uma semana` para ser concluído. Então faça com carinho e no tempo livre.
+O teste tem `uma semana` para ser concluído. Então faça com carinho e no seu tempo livre.
+
+Podemos notar, quando analizamos o `layout`, que temos muitos pontos de `iteração` na aplicação. Não é obrigatório fazer essas iterações, porém seria muito legal que fossem feitas. Essas iterações se aproximam da realidade do `software` e deixam a aplicação muito mais rica e fluída. Lembrando, não é obrigatório, mas seria muito legal 👍.
 
 Pode usar o `CRA (create-react-app)` sem problemas.
 Utilize  [material-ui](https://material-ui.com/) se possível.
